@@ -1,1 +1,3 @@
 This is group file1
+
+Hello group members
